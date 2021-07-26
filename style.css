@@ -375,7 +375,7 @@ section .title::after{
     width: 40%;
 }
 .skills-content .right .mysql::before{
-    width: 40%;
+    width: 30%;
 }
 
 /* design section styling */
