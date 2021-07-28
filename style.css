@@ -198,18 +198,18 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: teal;
-    color: #fff;
+    background: black;
+    color: black;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid teal;
+    border: 2px black;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: teal;
+    color: black;
     background: none;
 }
 
